@@ -1,0 +1,20 @@
+{
+  "name": "downlomix-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sass assets/scss/styles.scss assets/css/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuccasTraumer/downlomix-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuccasTraumer/downlomix-frontend/issues"
+  },
+  "homepage": "https://github.com/LuccasTraumer/downlomix-frontend#readme"
+}
